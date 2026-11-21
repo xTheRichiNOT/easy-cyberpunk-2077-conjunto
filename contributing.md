@@ -148,4 +148,4 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Cyberpunk 2077 · Actualizado 2026-11-20 · Compartido bajo licencia MIT*
+*Cyberpunk 2077 · Actualizado 2026-11-21 · Compartido bajo licencia MIT*
